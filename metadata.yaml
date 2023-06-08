@@ -1,0 +1,43 @@
+_repo: The-new-spirit-in-India_70847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nevinson, Henry Woodd
+    aliases:
+    - Nevinson, H. W. (Henry Woodd)
+    - Nevinson, Henry W.
+    - Nevinson, Henry Wood
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '3828'
+    url: http://www.gutenberg.org/2009/agents/3828
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Nevinson
+description: ''
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70847'
+  lccn: 09012037
+language: en
+pgterms:marc904: https://archive.org/details/newspiritinindia00neviiala
+pgterms:marc905: 20210314055515nevinson
+pgterms:marc906: '1908'
+pgterms:marc907: gb
+production_note: Bob Taylor, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHarper & Brothers, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcsh 'India -- Politics and government -- 1765-1947'
+- !lcc 'DS'
+- GITenberg
+tableOfContents: Introduction -- A servant of India -- Rats and men -- The extremist
+  -- The ryot's burden -- The southern city [Madras] -- On the beach -- The floods
+  of Orissa -- "Lord of the world" -- The divided land -- Swadeshi and the volunteers
+  -- The nawab -- Three Bengalis and the papers -- A mahratta shoe -- A city of God
+  -- The patient earth -- The arya Samaj -- A festival of spring -- Summary and conclusion.
+title: The new spirit in India
+url: http://www.gutenberg.org/ebooks/70847
