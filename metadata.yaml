@@ -1,5 +1,8 @@
 _repo: The-new-spirit-in-India_70847
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70847-h/images/cover.jpg
 creator:
   author:
     agent_name: Nevinson, Henry Woodd
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3828
     wikipedia: https://en.wikipedia.org/wiki/Henry_Nevinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70847#The-new-spirit-in-India
 gutenberg_issued: '2023-05-23'
 identifiers:
   gutenberg: '70847'
